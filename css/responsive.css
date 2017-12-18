@@ -1,0 +1,11 @@
+}
+@media screen and (min-width:588) {
+    body {
+        background-color: blue;
+    }
+}
+@media screen and (max-width:609) {
+    body {
+        background-color: yellow;
+    }
+}
